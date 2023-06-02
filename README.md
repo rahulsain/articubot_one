@@ -6,4 +6,5 @@ It is recommended that you keep the repo/package name the same, but if you do ch
 
 Note that each directory currently has at least one file in it to ensure that git tracks the files (and, consequently, that a fresh clone has direcctories present for CMake to find). These example files can be removed if required (and the directories can be removed if `CMakeLists.txt` is adjusted accordingly).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7UgnFsIxEoE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Setup video for remote and mapping project in ros](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=7UgnFsIxEoE)
+
